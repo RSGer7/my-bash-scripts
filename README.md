@@ -3,22 +3,22 @@ my bash scripts
 
 -----------------------------
 
-createscript.sh: 
-An easy way to create and set up a bash-script-file. 
-Creates script-file (or exits if file already exists), sets permissions, adds "#!/bin/bash" to first line
+createscript.sh: \n
+An easy way to create and set up a bash-script-file. \n
+Creates script-file (or exits if file already exists), sets permissions, adds "#!/bin/bash" to first line \n
 
-usage example:
-createscript.sh mynewscript.sh
--> this will create a file with the name "mynewscript.sh", set permissions, and add "#!/bin/bash" to its first line. 
+usage example: \n
+createscript.sh mynewscript.sh \n
+-> this will create a file with the name "mynewscript.sh", set permissions, and add "#!/bin/bash" to its first line.  \n
 
 -----------------------------
 
-mycc:
+mycc: \n
 
-Usage example:
-mycc myprogram.c
-Like gcc but automatically names compiled c-program like its source code file, but without the ".c".
-E.g.: "mycc myprogram.c" compiles the program and names the compiled executable "myprogram".
+Usage example: \n
+mycc myprogram.c \n
+Like gcc but automatically names compiled c-program like its source code file, but without the ".c". \n
+E.g.: "mycc myprogram.c" compiles the program and names the compiled executable "myprogram". \n
 
 ----------------------------
 
