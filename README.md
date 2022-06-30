@@ -17,6 +17,7 @@ mycc:
 
 Usage example: \
 mycc myprogram.c \
+
 Like gcc but automatically names compiled c-program like its source code file, but without the ".c". \
 E.g.: "mycc myprogram.c" compiles the program and names the compiled executable "myprogram". \
 
