@@ -4,6 +4,7 @@ My bash scripts
 -----------------------------
 
 createscript.sh: \
+
 An easy way to create and set up a bash-script-file. \
 Creates script-file (or exits if file already exists), sets permissions, adds "#!/bin/bash" to first line \
 
