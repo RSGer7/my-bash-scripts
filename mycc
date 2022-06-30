@@ -1,0 +1,10 @@
+#!/bin/bash
+
+#usage: mycc myprogram.c
+#like gcc but automatically names compiled c-program like its source code file, but without the ".c"
+#e.g.: "mycc myprogram.c" compiles the program and names the compiled executable "myprogram"
+
+file=$1
+modified=${file::-2}
+gcc $file -o $modified
+
