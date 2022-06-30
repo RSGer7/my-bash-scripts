@@ -1,5 +1,5 @@
 # my-bash-scripts
-my bash scripts
+My bash scripts
 
 -----------------------------
 
