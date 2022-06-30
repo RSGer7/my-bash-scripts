@@ -15,6 +15,8 @@ createscript.sh mynewscript.sh \
 
 mycc: 
 
+Compile C source code with gcc, automatically adopt the file name. 
+
 Usage example: \
 mycc myprogram.c \
 
