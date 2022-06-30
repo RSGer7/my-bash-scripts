@@ -13,7 +13,7 @@ createscript.sh mynewscript.sh \
 
 -----------------------------
 
-mycc: \
+mycc: 
 
 Usage example: \
 mycc myprogram.c \
